@@ -27,7 +27,6 @@ Este módulo detecta registros y compras de clientes, y envía los datos a la AP
 1. Clona el repositorio en la carpeta de módulos:
 
    ```
-   bash
    git clone https://github.com/guzmanbluis28/psmdirector.git modules/psmdirector
    ```
 
