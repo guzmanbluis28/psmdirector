@@ -1,8 +1,10 @@
+# Ignorar entorno de PrestaShop
 /vendor/
 /composer.lock
+.env
+
+# Archivos de caché y configuración local
 *.log
 .idea/
-/*.zip
-.env
+.vscode/
 .DS_Store
-node_modules/
