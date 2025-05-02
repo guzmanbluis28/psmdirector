@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>psmdirector</name>
+    <displayName>Sincronizador MDirector</displayName>
+    <version>1.0.0</version>
+    <author>Luis Guzmán</author>
+    <description>Sincroniza clientes de PrestaShop con MDirector automáticamente.</description>
+    <tab>administration</tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+    <limited_countries></limited_countries>
+</module>
